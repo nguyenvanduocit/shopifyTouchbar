@@ -1,5 +1,5 @@
 {
-  "BTTWidgetName" : "shopifyTouchBarr",
+  "BTTWidgetName" : "shopifyTouchBar",
   "BTTTriggerType" : 639,
   "BTTTriggerTypeDescription" : "Apple Script Widget",
   "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
@@ -25,7 +25,7 @@
     "BTTTouchBarAlwaysShowButton" : true,
     "BTTTouchBarAppleScriptString" : "",
     "BTTTouchBarAppleScriptStringRunOnInit" : false,
-    "BTTTouchBarButtonName" : "shopifyTouchBarr",
+    "BTTTouchBarButtonName" : "shopifyTouchBar",
     "BTTTouchBarAppleScriptUsePath" : 0,
     "BTTTouchBarFreeSpaceAfterButton" : 5,
     "BTTTouchBarItemIconHeight" : 22,
